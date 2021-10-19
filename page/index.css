@@ -9,6 +9,7 @@
 @import url(../blocks/content/rotation/rotation.css);
 
 @import url(../blocks/header/header.css);
+
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/_header/_position-left/logo_place_header_position-left.css);
 @import url(../blocks/logo/_place/_header/_position-top/logo_place_header_position-top.css);
@@ -21,11 +22,12 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
 @import url(../blocks/content/description/description.css);
-@import url(../blocks/content/description/two-columns/two-columns.css );
-@import url(../blocks/content/description/two-columns/two-columns__brief.css);
-@import url(../blocks/content/description/two-columns/two-columns__main-text.css);
-@import url(../blocks/content/description/two-columns/two-columns__span-accent.css);
-@import url(../blocks/content/description/two-columns/two-columns__paragraph.css);
+
+@import url(../blocks/content/two-columns/two-columns.css );
+@import url(../blocks/content/two-columns/two-columns__brief.css);
+@import url(../blocks/content/two-columns/two-columns__main-text.css);
+@import url(../blocks/content/two-columns/two-columns__span-accent.css);
+@import url(../blocks/content/two-columns/two-columns__paragraph.css);
 
 @import url(../blocks/content/techniques/techniques.css);
 
